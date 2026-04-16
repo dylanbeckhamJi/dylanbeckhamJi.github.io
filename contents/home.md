@@ -14,4 +14,4 @@ Quantitative Strategy Analyst , East Money Information Co., Ltd. – JinQuant Qu
 M.S.C., in Digital Business with Mathematical Statistics, Beijing Technology and Business University, 2026—now.
 
 #### Research Interests
-Machine Learning ; Statistical mathematics ; 
+Machine Learning ; Statistical mathematics ; Quantitative trading ;

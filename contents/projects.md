@@ -1,13 +1,5 @@
 <!-- contents/projects.md -->
 
-### **个人博客系统** | [项目链接](https://github.com/yourusername/blog)
-*一个全栈个人博客项目，支持Markdown文章发布、评论和标签分类。*
-- **技术栈**: React, Node.js, MongoDB, Ant Design
-- **主要功能**: 
-    - 用户认证与文章管理（发布、编辑、删除）
-    - 基于Markdown的富文本编辑器
-    - 响应式设计，支持移动端访问
-
 ### **股票数据分析工具** | [GitHub仓库](https://github.com/yourusername/stock-analysis)
 *一个简单的量化分析工具，用于获取和可视化股票历史数据及技术指标。*
 - **技术栈**: Python, Pandas, Matplotlib, Tushare
